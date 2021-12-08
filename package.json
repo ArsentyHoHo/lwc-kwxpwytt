@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/arsentyhoho.lwc-kwxpwytt",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 2wgcnYTCtsjdgcseUPqb --open"
+  }
+}
